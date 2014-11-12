@@ -1,0 +1,5 @@
+# put this in your ~/ folder as ".bashrc" instead of "bashrcX.txt"
+
+PS1="| \e[0;31m[\e[m \T \e[0;31m]\e[m\n| \e[0;31m>\e[m "
+
+# replace the "\T" with "\t" for 24h time
