@@ -23,3 +23,4 @@ $ mv bashrc1 ~/
 $ cd ~
 $ rename bashrc1 .bashrc
 ```
+(Some superuser permission may be needed)
