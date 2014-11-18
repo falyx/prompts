@@ -24,3 +24,9 @@ $ cd ~
 $ rename bashrc1 .bashrc
 ```
 (Some superuser permission may be needed)
+
+Share this project with others!
+===============================
+I made a short-link you can use to direct other people to this page.
+
+https://www.bit.ly/1sG4OFw
