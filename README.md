@@ -1,6 +1,6 @@
 prompts
 =======
-A few prompts I made for use in Linux.
+A few prompts I made for use in Bash.
 
 Installation
 ============
