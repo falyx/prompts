@@ -1,7 +1,6 @@
 prompts
 =======
 A few prompts I made for use in Linux.
-(psst, i use bashrc4!)
 
 Installation
 ============
