@@ -4,26 +4,18 @@ A few prompts I made for use in Bash.
 
 Installation
 ============
-Select a bashrc file. (eg. bashrc1)
-
-Put it in your home and name it
-
+### Linux/?
+Copy a "bashrc*" file to your $HOME directory and rename it to:
 ```
 .bashrc
 ```
-
 Don't forget the "."
 
-Alternatively: You can use these using the terminal.
-
+### Darwin/Mac OS X
+Copy a "bashrc*" file to your $HOME directory and rename it to:
 ```
-$ cd /directory/to/prompts-master/prompts/
-$ mv bashrc1 ~/
-$ cd ~
-$ rename bashrc1 .bashrc
+.bash_profile
 ```
-(Some superuser permission may be needed)
-
 Share this project with others!
 ===============================
 I made a short-link you can use to direct other people to this page.
