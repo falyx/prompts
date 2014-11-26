@@ -4,7 +4,7 @@ A few prompts I made for use in Bash.
 
 Installation
 ============
-### Linux/?
+### Linux
 Copy a "bashrc*" file to your $HOME directory and rename it to:
 ```
 .bashrc
