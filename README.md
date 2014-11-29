@@ -22,3 +22,11 @@ Share this project with others!
 I made a short-link you can use to direct other people to this page.
 
 https://www.bit.ly/1sG4OFw
+
+----------
+
+# Like this repository?
+You can tip me on Dogecoin! (Don't worry, you don't have to go overboard.)
+```
+DHBpfCJiDk8GVWM5cw8kFDRRLsCecDqzib
+```
